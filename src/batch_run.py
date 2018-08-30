@@ -4,7 +4,7 @@ from kandinskybot import KandinskyBot
 from get_location_input import get_location_input
 
 
-def run_multiple():
+def batch_run():
 	wassily = KandinskyBot()
 
 	os.system('cls' if os.name == 'nt' else 'clear')
@@ -33,4 +33,4 @@ def get_number_input(message):
 
 
 if __name__ == '__main__':
-	run_multiple()
+	batch_run()
