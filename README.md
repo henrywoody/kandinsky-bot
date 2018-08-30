@@ -8,7 +8,7 @@ This program creates random works of "art" in the style of Wassily Kandinsky. Mo
 
 ![Composition VIII, 1923](https://www.wassilykandinsky.net/images/works/50.jpg)
 
-	Kandinsky, W. (1923). *Composition VIII* [Painting].
+Kandinsky, W. (1923). *Composition VIII* [Painting].
 
 While most of the images produced by KandinskyBot are trash, there is the odd gem—around 1-2%. The infrequency of quality images is part of the fun.
 
@@ -16,17 +16,17 @@ Here are a few samples:
 
 ![Composition 1141](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/1141.eps)
 
-	KandinskyBot (2017). *Composition 1141* [Digital].
+KandinskyBot (2017). *Composition 1141* [Digital].
 
 ![Composition 113](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/113.eps)
 
-	KandinskyBot (2017). *Composition 113* [Digital]
+KandinskyBot (2017). *Composition 113* [Digital]
 
 
 
 ![Composition 534](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/534.eps)
 
-	KandinskyBot (2017). *Composition 534* [Digital]
+KandinskyBot (2017). *Composition 534* [Digital]
 
 
 
