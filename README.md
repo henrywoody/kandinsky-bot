@@ -14,17 +14,17 @@ While most of the images produced by KandinskyBot are trash, there is the odd ge
 
 Here are a few samples:
 
-![Composition 1141](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/1141.png)
+![Composition 1141](https://raw.githubusercontent.com/henrywoody/kandinsky-bot/master/samples/1141.png)
 
 KandinskyBot (2017). *Composition 1141* [Digital].
 
-![Composition 113](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/113.png)
+![Composition 113](https://raw.githubusercontent.com/henrywoody/kandinsky-bot/master/samples/113.png)
 
 KandinskyBot (2017). *Composition 113* [Digital]
 
 
 
-![Composition 534](https://github.com/henrywoody/kandinsky-bot/tree/master/samples/534.png)
+![Composition 534](https://raw.githubusercontent.com/henrywoody/kandinsky-bot/master/samples/534.png)
 
 KandinskyBot (2017). *Composition 534* [Digital]
 
